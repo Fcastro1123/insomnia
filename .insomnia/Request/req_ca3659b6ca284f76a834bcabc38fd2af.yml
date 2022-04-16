@@ -1,0 +1,43 @@
+_id: req_ca3659b6ca284f76a834bcabc38fd2af
+type: Request
+parentId: fld_c180079cb8264bc59da3f6f6939222c7
+modified: 1650044623128
+created: 1649088101694
+url: https://acc.alphamanager.com.br/auth/realms/Alpha
+  Manager/protocol/openid-connect/token
+name: Get_token - Keycloak
+description: ""
+method: POST
+body:
+  mimeType: application/x-www-form-urlencoded
+  params:
+    - id: pair_b5a7247020324a5daf97de4c1f8ac4b7
+      name: grant_type
+      value: password
+      description: ""
+    - id: pair_1d2f8e5aa037448cbafde7ad1efd4470
+      name: username
+      value: fabianoac1
+      description: ""
+    - id: pair_9e99a04780e14b59ac5a4b4d0033331c
+      name: password
+      value: "123456"
+      description: ""
+    - id: pair_6f35634fde7f4230b2284a73d670aa3a
+      name: client_id
+      value: react
+      description: ""
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/x-www-form-urlencoded
+    id: pair_b303c6d852c14e4e810d082db03c4cd0
+authentication: {}
+metaSortKey: -1649092812774.25
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

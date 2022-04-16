@@ -1,0 +1,30 @@
+_id: req_c51cc4f364a440f1a6ef228ec45bd800
+type: Request
+parentId: fld_99dcf88df3a14f7ba9f3a7adaff15e64
+modified: 1650082648092
+created: 1650082630751
+url: http://191.252.210.14:3000/month/showagenda
+name: Agenda Mês
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"mes":"3",
+    	"ano":"2022"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_0e8cdfb2b8c94997846f292e3e5062be
+authentication: {}
+metaSortKey: -1650082630751
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

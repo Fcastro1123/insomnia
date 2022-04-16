@@ -1,0 +1,38 @@
+_id: req_1c8c1cb204b84a47a0e930cea026433d
+type: Request
+parentId: fld_99dcf88df3a14f7ba9f3a7adaff15e64
+modified: 1650082829641
+created: 1650082744103
+url: http://191.252.210.14:3000/month/register
+name: Agendar
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"data":"05/02/2022",
+      "horario":"19:00",
+    	"evento":"Aniversário de teste via API",
+    	"local":"House",
+    	"contato":"fabiano",
+    	"responsavel":"fabiano",
+    	"valor":"800",
+    	"mes":"02",
+    	"ano":"2022",
+    	"created_at":"05/02/2022 15:22"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_6d669a47219440d1afa07b3fb80ff5a8
+authentication: {}
+metaSortKey: -1650082744103
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
