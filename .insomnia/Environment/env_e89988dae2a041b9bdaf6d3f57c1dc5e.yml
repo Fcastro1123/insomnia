@@ -1,0 +1,14 @@
+_id: env_e89988dae2a041b9bdaf6d3f57c1dc5e
+type: Environment
+parentId: env_c049e8e51a6c2f2f136a0c0205b39a0e65b0bc0e
+modified: 1658977281935
+created: 1658976517741
+name: AWSmonth
+data:
+  base_path: http://3.91.181.181:4281
+dataPropertyOrder:
+  "&":
+    - base_path
+color: null
+isPrivate: false
+metaSortKey: 1658976517741

@@ -1,0 +1,21 @@
+_id: req_58a066df97824184bfa2abfa71bf6ac3
+type: Request
+parentId: fld_c180079cb8264bc59da3f6f6939222c7
+modified: 1651618468363
+created: 1651618433704
+url: https://api.alphamanager.com.br/Asset/AssetValue?tagID=40&AssetTypeID=2&ClientID=5ab63ad6-5e6d-4742-b04f-695a981e9ec4
+name: historico no date
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1651618433704
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
