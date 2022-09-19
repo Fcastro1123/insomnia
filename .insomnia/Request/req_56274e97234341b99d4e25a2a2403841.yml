@@ -1,9 +1,9 @@
 _id: req_56274e97234341b99d4e25a2a2403841
 type: Request
 parentId: fld_99dcf88df3a14f7ba9f3a7adaff15e64
-modified: 1650082701208
+modified: 1658976634429
 created: 1650082689616
-url: http://191.252.210.14:3000/month/agendaall
+url: "{{ _.base_path }}/month/agendaall"
 name: Agenda All
 description: ""
 method: GET
