@@ -1,7 +1,7 @@
 _id: req_2a51f0dfb735473fa7c7ce724f977c82
 type: Request
 parentId: fld_c180079cb8264bc59da3f6f6939222c7
-modified: 1650082546281
+modified: 1672957444091
 created: 1650082205130
 url: https://api.alphamanager.com.br/Asset/AssetValue?tagID=7&AssetTypeID=2&ClientID=70050915-19b7-420b-9831-d7e304290997&startDate=2022-01-31T09:15:13.688+00:00&endDate=2022-02-15T09:15:13.688+00:00
 name: Histórico
